@@ -14,10 +14,12 @@ This project was developed as a fun, light-hearted side project during the COVID
 
 ### Contributing
 
-This project was built just for fun, and I don't have any serious plans of continuing to work on it.  However, if you have something cool you'r like to contribute, by all means submit a PR!
+This project was built just for fun, and I don't have any serious plans of continuing to work on it.  However, if you have something cool you'd like to contribute, by all means submit a PR!
 
 ### Author
 
 Built by Dave Van Fleet - https://github.com/dvfleet413
 
 ### License
+
+This project is open source and licnsed under the MIT License [here](https://github.com/dvfleet413/react-jeopardy/blob/master/LICENSE)
